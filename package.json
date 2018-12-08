@@ -1,0 +1,24 @@
+{
+  "name": "root",
+  "private": true,
+  "devDependencies": {
+    "lerna": "^3.6.0"
+  },
+  "description": "Testing a monorepo structure",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trumanbutter/monorepo.git"
+  },
+  "keywords": [],
+  "author": "Truman Butterworth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trumanbutter/monorepo/issues"
+  },
+  "homepage": "https://github.com/trumanbutter/monorepo#readme"
+}
